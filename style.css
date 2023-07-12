@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+img {
+    text-align: left;
+    margin-right: 100%;
+}
+p {
+    font-family: verdana;
+    font-size: 15px;
+}
+h2{
+    color: aquamarine;
+}
+p {
+    text-indent: 50px;
+    text-align: left 100%;
+    letter-spacing: 1px;
+}
